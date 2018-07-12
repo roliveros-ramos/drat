@@ -5,5 +5,5 @@ Imports: Rcpp (>= 0.12.0), stats, graphics, mgcv
 LinkingTo: Rcpp
 Suggests: pinp
 License: GPL (>= 2)
-MD5sum: 2b69be3229db42b0b61758a13e2b5006
+MD5sum: 9f63fdd4ab0333943ea6941c282b4226
 NeedsCompilation: yes
